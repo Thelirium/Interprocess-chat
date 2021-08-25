@@ -5,8 +5,8 @@ Pipes nomeados são acessados pelos processos como feito com arquivos comuns, po
 
 
 
-Passo a passo para utilização:
-1 - Abrir duas janelas de terminal;
-2 - Em cada uma das janelas realizar a compilação de ambos os arquivos, pessoa1.c e pessoa2.c;
-3 - Em uma janela executar pessoa1 e em outra o pessoa2;
+Passo a passo para utilização:  
+1 - Abrir duas janelas de terminal;  
+2 - Em cada uma das janelas realizar a compilação de ambos os arquivos, pessoa1.c e pessoa2.c;  
+3 - Em uma janela executar pessoa1 e em outra o pessoa2;  
 4 - A marcação "Eu:" indica o momento de escrever uma mensagem.
